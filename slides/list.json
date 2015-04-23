@@ -1,6 +1,6 @@
 ["intro.md"
-  ,"tweet.md"
-  ,"tweet_data.md"
+  ,["tweet.md"
+  ,"tweet_data.md"]
   ,["manipulate_data.md"
     ,"parse_json.md"
     ,"commandline_utilities.md"
@@ -24,4 +24,5 @@
     ,"streamgraph_preso1.md"
     ,"streamgraph_preso2.md"
   ]
+  ,"intro.md"
 ]
