@@ -1,2 +1,2 @@
 #Visualize Data
-###Demo and Discussion
+###Examples and Discussion

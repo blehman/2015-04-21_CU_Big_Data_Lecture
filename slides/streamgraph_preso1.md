@@ -1,5 +1,7 @@
 
-<img src="https://raw.githubusercontent.com/blehman/2015-04-21_CU_Big_Data_Lecture/master/imgs/healthy_fear.jpg" alt="Drawing">
+<img src="https://raw.githubusercontent.com/blehman/d3_tutorials/master/imgs/visualization_categories.png" alt="Drawing" style="width: 1000px; height:400px;"/>
+
+
 
 
 Note:

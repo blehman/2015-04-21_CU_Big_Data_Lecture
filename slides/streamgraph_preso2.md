@@ -1,5 +1,8 @@
 
-<img src="https://raw.githubusercontent.com/blehman/2015-04-21_CU_Big_Data_Lecture/master/imgs/healthy_fear.jpg" alt="Drawing">
+<video controls="">
+<source src="/imgs/dreamforce_animation.m4v" type="video/mp4"> 
+</source></video>
+
 
 
 Note:

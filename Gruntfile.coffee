@@ -26,10 +26,6 @@ module.exports = (grunt) ->
                 files: ['Gruntfile.coffee']
                 tasks: ['coffeelint']
 
-            jshint:
-                files: ['js/*.js']
-                tasks: ['jshint']
-        
         connect:
 
             livereload:
@@ -51,13 +47,6 @@ module.exports = (grunt) ->
                     level: 'ignore'
 
             all: ['Gruntfile.coffee']
-
-        jshint:
-
-            options:
-                jshintrc: '.jshintrc'
-
-            all: ['js/*.js']
 
         copy:
 
@@ -123,6 +112,5 @@ module.exports = (grunt) ->
 
     # Define default task.
     grunt.registerTask 'default', [
-        'test'
         'serve'
     ]
