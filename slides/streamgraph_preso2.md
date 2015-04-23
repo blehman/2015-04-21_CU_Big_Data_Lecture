@@ -1,6 +1,6 @@
 
 <video controls="">
-<source src="/imgs/dreamforce_animation.m4v" type="video/mp4"> 
+<source src="imgs/dreamforce_animation.m4v" type="video/mp4"> 
 </source></video>
 
 
