@@ -1,0 +1,23 @@
+body {
+  font: 20px sans-serif;
+}
+
+.axis {
+  fill: none;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+  font-size: 15px;
+}
+
+.line {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+  
+.initialCircle{
+  fill:red;
+  opacity:0.5;
+  stroke:red;
+}
+
