@@ -1,1 +1,11 @@
-["intro.md"]
+["intro.md"
+  ,"tweet.md"
+  ,"tweet_data.md"
+  ,["manipulate_data.md"
+    ,"parse_json.md"
+    ,"commandline_utilities.md"
+    ,"use_libraries.md"
+    ,"visualize.md"
+    ,"learning.md"
+  ]
+]

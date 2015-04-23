@@ -1,11 +1,11 @@
 
 # Data Science
 
-###Brian Lehman
+<br></br>
+###Twitter: [@BrianLehman](https://twitter.com/BrianLehman)  
+###Github: [BLEHMAN](https://github.com/blehman)
+<br></br>
+###Slides:  
+###[bit.ly/DataScienceCU](bit.ly/DataScienceCU)
 
-Twitter: [@BrianLehman](https://twitter.com/BrianLehman)
-Github: [BLEHMAN)(https://github.com/blehman)
 
-Available options:
-
- ```--markdown --attributes --notes```
