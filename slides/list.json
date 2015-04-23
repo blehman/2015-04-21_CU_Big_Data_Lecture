@@ -8,8 +8,10 @@
     ,"visualize.md"
     ,"learning.md"
   ]
-  ,"visualize_data.md"
+
   ,"scatter_plot_graph.html"
   ,"scatter_plot_final_graph.html"
-
+  ,["visualize_data.md"
+  ,"streamgraph_preso.md"
+  ]
 ]
