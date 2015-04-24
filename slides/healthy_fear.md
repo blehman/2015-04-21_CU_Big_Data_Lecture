@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/blehman/2015-04-21_CU_Big_Data_Lecture/master/imgs/healthy_fear.jpg" alt="Drawing">
+<img src="imgs/healthy_fear.jpg" alt="Drawing">
 
 
 Note:
