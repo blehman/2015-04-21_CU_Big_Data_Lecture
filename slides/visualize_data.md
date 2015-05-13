@@ -1,2 +1,2 @@
-#Visualize Data
+#Scientific Spitballs
 ###Examples and Discussion
