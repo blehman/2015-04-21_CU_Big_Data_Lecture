@@ -1,16 +1,10 @@
 ["intro.md"
-  ,["tweet.md"
-  ,"tweet_data.md"]
-  ,["manipulate_data.md"
-    ,"parse_json.md"
-    ,"commandline_utilities.md"
-    ,"use_libraries.md"
-    ,"visualize.md"
-    ,"learning.md"
+  ,["streamgraph_preso1.md"
+    ,"streamgraph_preso2.md"
+    ,"tweet.md"
+    ,"tweet_data.md"
+    ,"githubLink.md"
   ]
-
-  ,"scatter_plot_graph.html"
-  ,"scatter_plot_final_graph.html"
   ,["visualize_data.md"
     ,"streamgraph_preso1.md"
     ,"healthy_fear.md"
