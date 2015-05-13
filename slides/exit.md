@@ -5,7 +5,7 @@
 <br></br>
 
 ----
-###Slides: [bit.ly/DataScienceCU](http://blehman.github.io/2015-04-21_CU_Big_Data_Lecture/#/)
+###Slides: [http://bit.ly/BSW2015](http://blehman.github.io/2015-05-13_BSW_DataViz_Lecture/#/)
 ----
 <br></br>
 ###Twitter: [@BrianLehman](https://twitter.com/BrianLehman)  
