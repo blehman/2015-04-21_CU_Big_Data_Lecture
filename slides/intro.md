@@ -1,5 +1,5 @@
 
-# Data Science
+# Culture for Data Visualization
 ----
 ###Slides: [http://bit.ly/BSW2015](http://blehman.github.io/2015-05-13_BSW_DataViz_Lecture/#/)
 ----
